@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roay-Abdullah
 - 👀 I’m interested in DevSecOps 
-- 🌱 I’m currently learning Full Stack Web(MERN|LAMP)
+- 🌱 I’m currently learning Full Stack Web(MERN || LAMP)
 - 💞️ I’m looking to collaborate on Full Stack
 - 📫 How to reach me via contacts in Bio
 - ⚡ Fun fact: My frdnz call me Nerd but I'm not, I am just focused
